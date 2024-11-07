@@ -1,0 +1,106 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>icons/symbolic-dark/trash.svg</file>
+        <file>icons/symbolic-light/trash.svg</file>
+        <file>icons/symbolic-dark/enter.svg</file>
+        <file>icons/symbolic-light/enter.svg</file>
+        <file>icons/symbolic-dark/dice.svg</file>
+        <file>icons/symbolic-light/dice.svg</file>
+        <file>imgs/dice-twenty-faces-twenty.svg</file>
+        <file>dice/symbolic-dark/d20.svg</file>
+        <file>dice/symbolic-dark/d12.svg</file>
+        <file>dice/symbolic-dark/d10.svg</file>
+        <file>dice/symbolic-dark/d8.svg</file>
+        <file>dice/symbolic-dark/d6.svg</file>
+        <file>dice/symbolic-dark/d4.svg</file>
+        <file>dice/symbolic-light/d20.svg</file>
+        <file>dice/symbolic-light/d12.svg</file>
+        <file>dice/symbolic-light/d10.svg</file>
+        <file>dice/symbolic-light/d8.svg</file>
+        <file>dice/symbolic-light/d6.svg</file>
+        <file>dice/symbolic-light/d4.svg</file>
+        <file>dice/symbolic-dark/dPercent.svg</file>
+        <file>dice/symbolic-light/dPercent.svg</file>
+        <file>icons/symbolic-dark/cloud-download.svg</file>
+        <file>icons/symbolic-light/cloud-download.svg</file>
+        <file>imgs/logo.svg</file>
+        <file>icons/symbolic-dark/fng.svg</file>
+        <file>icons/symbolic-light/fng.svg</file>
+        <file>icons/symbolic-dark/fantasynamegenerators/fantasy-and-folklore.svg</file>
+        <file>icons/symbolic-dark/fantasynamegenerators/other-names.svg</file>
+        <file>icons/symbolic-dark/fantasynamegenerators/places-and-locations.svg</file>
+        <file>icons/symbolic-dark/fantasynamegenerators/pop-culture.svg</file>
+        <file>icons/symbolic-dark/fantasynamegenerators/real-names.svg</file>
+        <file>icons/symbolic-light/fantasynamegenerators/fantasy-and-folklore.svg</file>
+        <file>icons/symbolic-light/fantasynamegenerators/other-names.svg</file>
+        <file>icons/symbolic-light/fantasynamegenerators/places-and-locations.svg</file>
+        <file>icons/symbolic-light/fantasynamegenerators/pop-culture.svg</file>
+        <file>icons/symbolic-light/fantasynamegenerators/real-names.svg</file>
+        <file>icons/symbolic-dark/split-tabs.svg</file>
+        <file>icons/symbolic-light/split-tabs.svg</file>
+        <file>fonts/Unifont/unifont-15.1.05.otf</file>
+        <file>fonts/Unifont/unifont_upper-15.1.05.otf</file>
+        <file>fonts/Unifont/unifont_csur-15.1.05.otf</file>
+        <file>fonts/Unifont/LICENSE.txt</file>
+        <file>icons/symbolic-dark/question.svg</file>
+        <file>icons/symbolic-light/question.svg</file>
+        <file>icons/symbolic-light/calculator.svg</file>
+        <file>icons/symbolic-dark/calculator.svg</file>
+        <file>shaders/frag.fs</file>
+        <file>shaders/verts.vs</file>
+        <file>3DAssets/testCube/cube.glb</file>
+        <file>qmarkdown/index.qtml</file>
+        <file>qmarkdown/MARKED-LICENSE.txt</file>
+        <file>qmarkdown/marked.qs</file>
+        <file>qmarkdown/MARKDOWN-LICENSE.txt</file>
+        <file>qmarkdown/markdown.qss</file>
+        <file>icons/symbolic-dark/editor.svg</file>
+        <file>icons/symbolic-light/editor.svg</file>
+        <file>qmarkdown/dark.qss</file>
+        <file>qmarkdown/light.qss</file>
+        <file>qmarkdown/highcontrast.qss</file>
+        <file>qmarkdown/lambdacomplex.qss</file>
+        <file>qmarkdown/5e.qss</file>
+        <file>qmarkdown/qbrew.qs</file>
+        <file>icons/symbolic-dark/reset.svg</file>
+        <file>icons/symbolic-light/reset.svg</file>
+        <file>icons/symbolic-dark/pencil.svg</file>
+        <file>icons/symbolic-light/pencil.svg</file>
+        <file>icons/symbolic-dark/code.svg</file>
+        <file>icons/symbolic-light/code.svg</file>
+        <file>icons/symbolic-light/markdown.svg</file>
+        <file>icons/symbolic-dark/markdown.svg</file>
+        <file>icons/symbolic-dark/magnify.svg</file>
+        <file>icons/symbolic-dark/minify.svg</file>
+        <file>icons/symbolic-light/minify.svg</file>
+        <file>icons/symbolic-light/magnify.svg</file>
+        <file>icons/symbolic-dark/folder.svg</file>
+        <file>icons/symbolic-light/folder.svg</file>
+        <file>fonts/EB Garamond/EBGaramond-VariableFont_wght.ttf</file>
+        <file>fonts/EB Garamond/OFL.txt</file>
+        <file>fonts/EB Garamond/README.txt</file>
+        <file>fonts/EB Garamond/EBGaramond-Italic-VariableFont_wght.ttf</file>
+        <file>icons/symbolic-dark/swear.svg</file>
+        <file>icons/symbolic-light/swear.svg</file>
+        <file>fonts/vinque/Typodermic Desktop EULA 2023.pdf</file>
+        <file>fonts/vinque/vinque rg.otf</file>
+    </qresource>
+    <qresource prefix="/docs">
+        <file>Acknowledgements/assimp.md</file>
+        <file>Acknowledgements/cpptoml.md</file>
+        <file>Acknowledgements/ExprTk.md</file>
+        <file>Acknowledgements/htmlparser.md</file>
+        <file>Acknowledgements/Dependencies.md</file>
+        <file>Acknowledgements/Icon Themes.md</file>
+        <file>Acknowledgements/EB Garamond.md</file>
+        <file>Acknowledgements/Fonts.md</file>
+        <file>Acknowledgements/symbolic-dark.md</file>
+        <file>Acknowledgements/symbolic-light.md</file>
+        <file>Acknowledgements/Unifont.md</file>
+        <file>Acknowledgements/Vinque.md</file>
+        <file>Acknowledgements/Brewdown.md</file>
+        <file>Acknowledgements/Markdown Editor.md</file>
+        <file>Acknowledgements/Markdown.md</file>
+        <file>Acknowledgements/MarkedJS.md</file>
+    </qresource>
+</RCC>
