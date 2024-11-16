@@ -98,6 +98,7 @@ Currently, d-notation does not support expressions as parameters. Therefore, whi
 
 ## Feature Roadmap
 
+☐ Remove dependency on Q.D.M.S. assets like the Markdown Renderer, etc.
 ☐ Overhaul expression history and roll history<br>
 <space><space>☐ Merge Expression history and roll history as roll history<br>
 <space><space>☐ FIFO stack for roll history<br>
@@ -105,3 +106,4 @@ Currently, d-notation does not support expressions as parameters. Therefore, whi
 <space><space>☐ Most recent dice roll is hilighted.<br>
 ☐ Named dice rolls<br>
 ☐ Overhaul d-notation as a custom operator recognized by ExprTk itself.<br>
+
