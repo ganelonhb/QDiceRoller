@@ -2,7 +2,13 @@ QT       += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-CONFIG += c++2b
+unix {
+    CONFIG += c++2b
+}
+win32 {
+    CONFIG += c++2b
+    QMAKE_CXXFLAGS += /bigobj
+}
 
 INCLUDEPATH += $$PWD/deps
 
