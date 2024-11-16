@@ -89,7 +89,7 @@ Use the Enter↵ Key (or the ↩ Button) to input your custom expression.
 
 You will notice that the Expression History text field shows you the entire expression, as well as the result. On the right-hand side, your Roll History shows you the individual rolls and their results.
 
-![Expressions: 3](github/expressions_3.png)
+![Expressions: 3](github/expression_3.png)
 
 You can input any expression that is a valid ExprTk expression, and you can use "d-notation" (NdS) as well as function notation (dice(N, S)) to specify dice rolls.
 
@@ -98,10 +98,10 @@ Currently, d-notation does not support expressions as parameters. Therefore, whi
 
 ## Feature Roadmap
 
-☐ Overhaul expression history and roll history
-    ☐ Merge Expression history and roll history as roll history
-    ☐ FIFO stack for roll history
-    ☐ Read-only roll history with separate, optional notes section.
-    ☐ Most recent dice roll is hilighted.
-☐ Named dice rolls
-☐ Overhaul d-notation as a custom operator recognized by ExprTk itself.
+☐ Overhaul expression history and roll history<br>
+<space><space>☐ Merge Expression history and roll history as roll history<br>
+<space><space>☐ FIFO stack for roll history<br>
+<space><space>☐ Read-only roll history with separate, optional notes section.<br>
+<space><space>☐ Most recent dice roll is hilighted.<br>
+☐ Named dice rolls<br>
+☐ Overhaul d-notation as a custom operator recognized by ExprTk itself.<br>
